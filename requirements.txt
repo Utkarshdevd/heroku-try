@@ -1,4 +1,7 @@
-Flask==0.9
-Jinja2==2.6
-Werkzeug==0.8.3
-gunicorn==0.17.2
+Flask==0.10.1
+Flask-WTF==0.9.5
+Jinja2==2.7.2
+WTForms==1.0.5
+Werkzeug==0.9.4
+dirspec==3.0.0
+gunicorn==18.0
